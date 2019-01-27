@@ -1,2 +1,3 @@
-# ga_votes
-Repo for data and code related to my Georgia Votes Project
+# Georgia Votes
+
+This repo will hold the data and code for analyzing Georgia Election Data
